@@ -1,0 +1,145 @@
+code,country,hdi,gini,continent,pop,religion
+CHN,China,0.738,22.1,Asia,1345174272,Sincretismo
+IND,India,0.624,26.5,Asia,1195000000,Hinduismo
+USA,United States,0.92,12.9,Americas,312750000,Cristianismo
+INS,Indonesia,0.689,18.2,Asia,239960000,Islamismo
+BRA,Brazil,0.754,25,Americas,190755800,Cristianismo
+PAK,Pakistan,0.55,29.6,Asia,168446576,Islamismo
+NIG,Nigeria,0.527,37.5,Africa,154110416,Islamismo
+BNG,Bangladesh,0.579,28.5,Asia,147290688,Islamismo
+RUS,Russia,0.804,9.6,Europe,142400000,Cristianismo
+JPN,Japan,0.903,12.2,Asia,127451704,Sintoismo
+MEX,Mexico,0.762,22.4,Americas,112336538,Cristianismo
+PHI,Philippines,0.682,18.2,Asia,92097978,Cristianismo
+ETH,Ethiopia,0.448,25.5,Africa,82278800,Cristianismo
+GMY,Germany,0.926,7,Europe,81698976,Cristianismo
+EGY,Egypt,0.691,28.3,Africa,81277560,Islamismo
+TUR,Turkey,0.767,15.8,Asia,76787632,Islamismo
+IRN,Iran,0.774,31.5,Asia,74073560,Islamismo
+THI,Thailand,0.74,20.2,Asia,67333472,Budismo
+FRN,France,0.897,9.3,Europe,62722560,Cristianismo
+UKG,United Kingdom,0.91,7.8,Europe,62206876,Cristianismo
+ITA,Italy,0.887,11.2,Europe,60483224,Cristianismo
+SAF,South Africa,0.666,32,Africa,50022088,Cristianismo
+COL,Colombia,0.727,23.7,Americas,46295000,Cristianismo
+SPN,Spain,0.884,10.1,Europe,46076496,Cristianismo
+UKR,Ukraine,0.743,7.2,Europe,46005476,Cristianismo
+TAZ,Tanzania,0.531,25.4,Africa,43070004,Cristianismo
+ARG,Argentina,0.827,15.2,Americas,40399992,Cristianismo
+KEN,Kenya,0.555,29.4,Africa,40187108,Cristianismo
+POL,Poland,0.855,9.3,Europe,38182920,Cristianismo
+CAN,Canada,0.92,8.7,Americas,34500000,Cristianismo
+IRQ,Iraq,0.649,22,Asia,31800000,Islamismo
+MOR,Morocco,0.647,28.3,Africa,31776052,Islamismo
+UGA,Uganda,0.493,30.8,Africa,31118996,Cristianismo
+PER,Peru,0.74,21.4,Americas,29402646,Cristianismo
+VEN,Venezuela,0.767,19.1,Americas,28834000,Cristianismo
+UZB,Uzbekistan,0.701,15.3,Asia,28160570,Islamismo
+AFG,Afghanistan,0.479,30.4,Asia,27000000,Islamismo
+NEP,Nepal,0.558,25.8,Asia,26494504,Hinduismo
+GHA,Ghana,0.579,32.5,Africa,23997252,Cristianismo
+YEM,Yemen,0.482,32.7,Asia,23605382,Islamismo
+MZM,Mozambique,0.418,32.9,Africa,21841850,Cristianismo
+ROM,Romania,0.802,10.8,Europe,21433182,Cristianismo
+AUL,Australia,0.939,8,Oceania,21400000,Cristianismo
+SRI,Sri Lanka,0.766,11.5,Asia,20590078,Budismo
+MAG,Madagascar,0.512,26.8,Africa,20538780,Cristianismo
+SYR,Syria,0.536,21.4,Asia,20368588,Islamismo
+CAO,Cameroon,0.518,32.4,Africa,19929964,Cristianismo
+ANG,Angola,0.533,36.6,Africa,19114176,Cristianismo
+CHL,Chile,0.847,17.1,Americas,17077416,Cristianismo
+NTH,Netherlands,0.924,6.8,Europe,16612522,Cristianismo
+KZK,Kazakhstan,0.794,10.1,Asia,16315848,Islamismo
+BFO,Burkina Faso,0.402,33.3,Africa,15583968,Islamismo
+CAM,Cambodia,0.563,22.4,Asia,15308156,Budismo
+NIR,Niger,0.353,37.5,Africa,14988429,Islamismo
+MAW,Malawi,0.476,31.2,Africa,14460699,Cristianismo
+ECU,Ecuador,0.739,20.2,Americas,14209151,Cristianismo
+GUA,Guatemala,0.64,29.1,Americas,13824463,Cristianismo
+MLI,Mali,0.442,32.7,Africa,13568961,Islamismo
+ZAM,Zambia,0.579,34.7,Africa,13039656,Cristianismo
+ZIM,Zimbabwe,0.516,28.1,Africa,12165294,Cristianismo
+SEN,Senegal,0.494,32.5,Africa,12084098,Islamismo
+CHA,Chad,0.396,39.6,Africa,11499083,Islamismo
+GRC,Greece,0.866,12.1,Europe,11319288,Cristianismo
+BEL,Belgium,0.896,8.3,Europe,10876395,Cristianismo
+POR,Portugal,0.843,10.1,Europe,10642505,Cristianismo
+TUN,Tunisia,0.725,21.9,Africa,10548997,Islamismo
+RWA,Rwanda,0.498,31.8,Africa,10344436,Cristianismo
+BOL,Bolivia,0.674,28.8,Americas,10312315,Cristianismo
+GUI,Guinea,0.592,39.1,Africa,10238627,Islamismo
+DOM,Dominican Republic,0.722,21.6,Americas,9956648,Cristianismo
+HUN,Hungary,0.836,7.6,Europe,9900000,Cristianismo
+HAI,Haiti,0.493,39.2,Americas,9760832,Cristianismo
+BLR,Belarus,0.796,6.4,Europe,9490500,Cristianismo
+SWD,Sweden,0.913,6.6,Europe,9379022,Cristianismo
+AZE,Azerbaijan,0.759,12.9,Asia,9047615,Islamismo
+BEN,Benin,0.485,37.1,Africa,8785996,Cristianismo
+BUI,Burundi,0.404,30.6,Africa,8595166,Cristianismo
+AUS,Austria,0.893,8.5,Europe,8389771,Cristianismo
+HON,Honduras,0.625,28.5,Americas,8002039,Cristianismo
+SWZ,Switzerland,0.939,8.4,Europe,7825122,Cristianismo
+ISR,Israel,0.899,12.9,Asia,7624494,Judaismo
+BUL,Bulgaria,0.794,10.5,Europe,7543557,Cristianismo
+TAJ,Tajikistan,0.627,14.9,Asia,7436448,Islamismo
+SAL,El Salvador,0.68,22,Americas,7212288,Cristianismo
+PAR,Paraguay,0.693,23.5,Americas,6455292,Cristianismo
+SIE,Sierra Leone,0.42,36.6,Africa,6139274,Islamismo
+JOR,Jordan,0.742,16.4,Asia,6112148,Islamismo
+TOG,Togo,0.487,31.6,Africa,5827529,Cristianismo
+NIC,Nicaragua,0.645,25.4,Americas,5821815,Cristianismo
+TKM,Turkmenistan,0.692,25.5,Asia,5616004,Islamismo
+DEN,Denmark,0.925,7,Europe,5539634,Cristianismo
+SLO,Slovakia,0.845,6,Europe,5434143,Cristianismo
+KYR,Kyrgyzstan,0.664,12.1,Asia,5365372,Islamismo
+FIN,Finland,0.895,5.7,Europe,5363908,Cristianismo
+NOR,Norway,0.949,5.4,Europe,4885082,Cristianismo
+CEN,Central African Republic,0.352,43.1,Africa,4502654,Cristianismo
+IRE,Ireland,0.923,7.7,Europe,4462987,Cristianismo
+GRG,Georgia,0.769,12.2,Asia,4452394,Cristianismo
+COS,Costa Rica,0.776,18.2,Americas,4450000,Cristianismo
+CRO,Croatia,0.827,8.9,Europe,4424161,Cristianismo
+PAN,Panama,0.788,21,Americas,4255000,Cristianismo
+LBR,Liberia,0.427,32.9,Africa,4167344,Cristianismo
+LEB,Lebanon,0.763,20.4,Asia,4081000,Islamismo
+BOS,Bosnia and Herzegovina,0.75,13.1,Europe,3823795,Cristianismo
+MLD,Moldova,0.699,10.1,Europe,3562158,Cristianismo
+URU,Uruguay,0.795,15.4,Americas,3356679,Cristianismo
+LIT,Lithuania,0.848,10.2,Europe,3321032,Cristianismo
+MAA,Mauritania,0.513,31.9,Africa,3311512,Islamismo
+ARM,Armenia,0.743,9.2,Asia,3245781,Cristianismo
+ALB,Albania,0.764,13.4,Europe,3195525,Islamismo
+JAM,Jamaica,0.73,15.9,Americas,2868630,Cristianismo
+MON,Mongolia,0.735,12.9,Asia,2746016,Budismo
+LAT,Latvia,0.83,10.3,Europe,2242818,Cristianismo
+NAM,Namibia,0.64,33.4,Africa,2144764,Cristianismo
+LES,Lesotho,0.497,34.9,Africa,2094896,Cristianismo
+MAC,Macedonia,0.748,16.1,Europe,2056617,Cristianismo
+SLV,Slovenia,0.89,5.8,Europe,2053714,Cristianismo
+BOT,Botswana,0.698,36.2,Africa,1807515,Cristianismo
+GAM,Gambia,0.452,38.8,Africa,1720403,Islamismo
+GNB,Guinea-Bissau,0.424,39.1,Africa,1477784,Animismo
+GAB,Gabon,0.697,23.8,Africa,1402214,Cristianismo
+EST,Estonia,0.865,8.6,Europe,1339974,Sin religion
+TRI,Trinidad and Tobago,0.78,15.1,Americas,1305000,Cristianismo
+MAS,Mauritius,0.781,14.3,Africa,1280511,Hinduismo
+SWA,Swaziland,0.541,33.1,Africa,1220594,Cristianismo
+DJI,Djibouti,0.473,33.7,Africa,882943,Islamismo
+FIJ,Fiji,0.736,15.1,Oceania,859318,Cristianismo
+CYP,Cyprus,0.856,10.8,Europe,813958,Cristianismo
+GUY,Guyana,0.638,18.5,Americas,767501,Cristianismo
+BHU,Bhutan,0.607,28.4,Asia,694754,Budismo
+COM,Comoros,0.498,44.8,Africa,679961,Islamismo
+MNG,Montenegro,0.807,8.7,Europe,629517,Cristianismo
+SUR,Suriname,0.725,23.3,Americas,566000,Cristianismo
+SOL,Solomon Islands,0.515,23.8,Oceania,536533,Cristianismo
+LUX,Luxembourg,0.898,7.8,Europe,505838,Cristianismo
+MLT,Malta,0.856,8,Europe,412911,Cristianismo
+MAD,Maldives,0.701,23.4,Asia,317405,Islamismo
+ICE,Iceland,0.921,5.7,Europe,316821,Cristianismo
+BHM,Bahamas,0.792,14,Americas,313312,Cristianismo
+BLZ,Belize,0.706,21.8,Americas,304106,Cristianismo
+VAN,Vanuatu,0.597,17.2,Oceania,241400,Cristianismo
+FSM,Micronesia,0.638,34.9,Oceania,110971,Cristianismo
+KIR,Kiribati,0.588,32,Oceania,103000,Cristianismo
+DMA,Dominica,0.726,21.6,Americas,73000,Cristianismo
