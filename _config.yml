@@ -28,7 +28,7 @@ github_username: crabarca
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-sitemap
