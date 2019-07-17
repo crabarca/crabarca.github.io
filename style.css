@@ -1,16 +1,25 @@
 body {
   font-family: 'Oswald', sans-serif;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+
+  width: 100vw;
+  height: 100vh;
 }
 
 
-div {
-  height: 200px;
-  width: 400px;
-
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  margin-top: -100px;
-  margin-left: -200px;
-  font-size: 40px;
+h1 {
+  margin: 0;
+  flex: 0 1 auto;
+  text-align: center;
+  font-size: 50px;
+  transition: all 0.2s;
+  z-index: 2;
 }
