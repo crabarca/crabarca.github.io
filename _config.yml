@@ -88,7 +88,7 @@ logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "I write about the things I build in my free time" # Site description and default description, also used in jekyll-seo-tag
 url: "www.cristobalabarca.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/"
+repo: "https://github.com/crabarca"
 email: "caabarca1@uc.cl"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
