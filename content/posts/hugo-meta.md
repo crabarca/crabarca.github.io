@@ -17,4 +17,24 @@ I always suspected about the flavors of markdown, but never took the time to dig
 - Stack Overflow / Stack Exchange
 - Swift
 
+### GitHub Actions `permissions`, `concurrency` and `defaults`
 
+Usually when writing GitHub Actions I was used to define the running shell inside the step where the shell was needed:
+
+```yaml
+steps:
+  - name: bash exec
+    shell: bash
+    run: |
+      chmod +x ./script.sh
+      ./script.sh
+```
+
+but it's possible to configure the shell at the root level:
+
+```yaml
+# action.yaml
+defaults:
+  run:
+    shell: bash
+```
