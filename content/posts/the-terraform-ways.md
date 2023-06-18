@@ -2,11 +2,20 @@
 title: "The Terraform Ways"
 date: 2023-06-16T18:53:54+02:00
 draft: true
+mermaid: true
 ---
 
 A lot of new projects tend to start with a naive team looking to improve the way infrastructure is handled. So after discovering Terraform they start doing something like this:
 
 TODO: Insert image here!
+
+{{< mermaid >}}
+flowchart LR
+    y("👫 You") --> h{"🤝 Found this helpful?"}
+    h --> |Yes| r[/"⭐ Check out my featured posts!"/]
+    h --> |No| su[/"📝 Suggest changes by clicking near the title"/]
+    click r "/categories/featured" _blank
+{{< /mermaid >}}
 
 After 2 days of merge-conflicts because of the local state file tracked in Git…. The team realises that it could be wise to use a remote backend to store the state of the infrastructure
 

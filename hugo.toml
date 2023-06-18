@@ -1,4 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cristobalabarca.com/'
 languageCode = 'en-us'
-title = "Cristobal's Blog"
+title = "Cristóbal's Blog"
 theme = 'ananke'
+
+[params]
+[params.mermaid]
+theme = "dark"
+align = "center"

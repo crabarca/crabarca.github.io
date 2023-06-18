@@ -2,6 +2,7 @@
 title: "Terraform Blockchain"
 date: 2023-06-16T19:00:26+02:00
 draft: true
+mermaid: false
 ---
 
 The Terraform blockchain
