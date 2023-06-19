@@ -2,8 +2,3 @@ baseURL = 'https://cristobalabarca.com/'
 languageCode = 'en-us'
 title = "Cristóbal's Blog"
 theme = 'ananke'
-
-[params]
-[params.mermaid]
-theme = "dark"
-align = "center"
