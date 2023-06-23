@@ -1,6 +1,6 @@
 baseURL = 'https://cristobalabarca.com/'
 languageCode = 'en-us'
-title = "Cristóbal's braindump"
+title = "Cristóbal's braindump 🧠"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
