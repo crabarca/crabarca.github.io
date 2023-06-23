@@ -1,8 +1,9 @@
 ---
 title: "Hugo meta-learnings"
-date: 2023-06-16T18:09:08+02:00
+date: 2023-06-11T18:09:08+02:00
 draft: false
 show_reading_time: true
+summary: Hugo.self.learning = true
 ---
 ## Things I learned while creating this blog
 

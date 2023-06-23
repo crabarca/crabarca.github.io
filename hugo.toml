@@ -1,4 +1,11 @@
 baseURL = 'https://cristobalabarca.com/'
 languageCode = 'en-us'
-title = "Cristóbal's Blog"
-theme = 'ananke'
+title = "Cristóbal's braindump"
+theme = 'hugo-bearblog'
+
+# Basic metadata configuration for your blog.
+author = "Cristobal Abarca"
+copyright = "Copyright © 2023, Cristobal Abarca."
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true

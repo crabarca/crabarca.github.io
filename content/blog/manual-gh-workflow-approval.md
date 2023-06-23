@@ -1,6 +1,6 @@
 ---
 title: "Manual GH Action Workflow Approval"
-date: 2023-06-16T19:05:07+02:00
+date: 2023-06-12T19:05:07+02:00
 draft: false
 summary: Two different approaches to manually approve a GitHub Action Workflow
 authors: ["Cristobal Abarca"]
@@ -67,3 +67,5 @@ while timeoutTimeIsNotYetReached:
 ```
 
 So, the runners will be kept allocated till an approval, cancel or timeout is detected. Always analyse your use-case carefully!
+
+Disclaimer: This is a experimental series of short blog posts aimed to be in the 2-3 minutes reading range covering cloud, software or miscellaneous topics.
