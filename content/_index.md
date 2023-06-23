@@ -2,13 +2,13 @@
 title: "Home"
 authors: ["Cristobal Abarca"]
 ---
-## Hi, I'm Cristobal
+## Hi, I'm Cristóbal
 
-I'm just another software engineer that want's to share the cool stuff I'm currently working on.
+I'm just another software engineer that wants to share the cool stuff I'm currently working on.
 
-When I'm not here, I'm usually outside climbing some [walls](https://atakamaoutdoor.cl/blogs/lugares-de-chile/multilargo-los-miserables)
+When I'm not here, I'm usually outside climbing some [walls.](https://atakamaoutdoor.cl/blogs/lugares-de-chile/multilargo-los-miserables)
 
-This site is the execution of a simple idea that has been in the back of my mind for years: 
+This site is the execution of a simple idea that has been in the back of my mind for years:
 
 ```
 have my *own independent* space on the internet
