@@ -8,7 +8,7 @@ show_reading_time: true
 ---
 ## How to manually approve GitHub Action workflows?
 
-Disclaimer: Before being attacked by the fully-automated CI/CD crew I would like to acknowledge your intentions, but sometimes it's needed to have human eyes verifying pipeline actions.
+Disclaimer: Before being attacked by the fully-automated CI/CD crew I would like to acknowledge your intentions, but sometimes it is needed to have human eyes verifying pipeline actions.
 
 Recently we, with my colleague [Belal](https://www.linkedin.com/in/belal-mohamed-31114915/), were faced with the task to implement a mechanism to manually approve a GH Action pipeline job. Specifically, we needed to humanly review the plan created by Terraform before applying it and changing the resources in Azure. After some googling, we found 2 viable options:
 

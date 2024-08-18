@@ -6,7 +6,7 @@ mermaid: false
 show_reading_time: true
 ---
 
-The Terraform blockchain
+The Terraform chain
 For sure we’ve found ourselves at a position when you decide to rename a resource in Terraform and when doing terraform apply it tries to delete and re-create such resource because it’s a different one than the one listed in the state. If you have faced this case, you can use moved blocks!
 
 For example:
@@ -49,10 +49,6 @@ moved {
 
 and voila! now your IaC files do look more professional without resource recreation.
 Terraform understands from now on that your previous `aws_instance.ridiculous_name[0]` will be mapped to `aws_instance.serious_name[0]`
-
-## TODO: Add a new paragraph with a new moved block and describe how the "blockchain" is formed and what does it implicate
-
-Pd. For those wondering, the count=2 will create 2 instances of the resource
 
 References:
 
